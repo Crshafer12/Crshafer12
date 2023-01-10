@@ -1,7 +1,7 @@
 ![TitleImage](./assets/top.png)
 
 🎓&nbsp;I will be graduating with a Bachelors degree in Comptuer Science from Kettering University in June, 2023.<br>
-💼&nbsp;I have been working at Leidos as a software developer Co-op for the past years on a rotational basis.<br>
+💼&nbsp;I have been working at Leidos as a software developer Co-op since October 2019 on a rotational basis.<br>
 🌱&nbsp;I am currently looking for new opportunities as a full-stack/front-end developer.<br>
 
 See more on my <a href="https://corey-shafer.com/" target="_blank">website</a>
