@@ -1,4 +1,4 @@
-![TitleImage](./assets/top.PNG)
+![TitleImage](./assets/top.png)
 
 🎓&nbsp;I will be graduating with a Bachelors degree in Comptuer Science from Kettering University in June, 2023.<br>
 💼&nbsp;I have been working at Leidos as a software developer Co-op for the past years on a rotational basis.<br>
@@ -41,4 +41,4 @@ See more on my <a href="https://corey-shafer.com/" target="_blank">website</a>
     <img src = "https://komarev.com/ghpvc/?username=Crshafer12&color=0d1117&style=flat-square">
 </p>
 
-![EndImage](./assets/bottom.PNG)
+![EndImage](./assets/bottom.png)
