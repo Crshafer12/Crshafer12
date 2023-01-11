@@ -8,7 +8,7 @@ See more on my <a href="https://corey-shafer.com/" target="_blank">website</a>
 
 ---
 
-<h3 align="center">Tech Stack 🛠</h3>
+<h3  align="center">Tech Stack 🛠</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
